@@ -1,3 +1,7 @@
+# Group Number: 1
+# Group Members: Francis Ivan Consigma, Willie Kyle Saragcon, John Daniel Sampaga, Mark Angel Quilang, Allan Gabriel Amores
+# Problem number: 1
+
 def main():
 	list = [3, 4, 5, 6, 7]
 	print("Mean", mean(list))
