@@ -1,3 +1,7 @@
+# Group Number: 1
+# Group Members: Francis Ivan Consigma, Willie Kyle Saragcon, John Daniel Sampaga, Mark Angel Quilang, Allan Gabriel Amores
+# Problem number: 2
+
 namefile = input("Enter the File text name (include .txt): ")
 with open(namefile, "r") as text:
     text_lines = text.readlines()
